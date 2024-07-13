@@ -1,0 +1,111 @@
+.user{
+    width: 60%;
+    background-color: white;
+    border-radius: 5px;
+    margin: 50px auto;
+    padding: 50px;
+    box-shadow: 1px 1px 8px rgba(0,0,0,0.065);
+}
+.add_btn{
+    text-decoration: none;
+    background-color: purple;
+    color:white;
+    font-weight: 500;
+    box-shadow: 1px 1px 8px rgba(0,0,0,0.065);
+    border-radius: 5px;
+    padding: 10px;
+}
+.user table {
+    width: 100%;
+    margin-top: 30px;
+    border-collapse: collapse;
+}
+.user table thead th{
+
+    background-color:burlywood;
+    padding: 10px;
+
+}
+.user table tbody td{
+    padding: 8px 10px;
+    text-align: center;
+}
+.btn button{
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    border: 0;
+    padding: 8px 10px;
+    background-color: rgb(156, 218, 213);
+}
+.btn a{
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 6px 6px;
+    text-decoration: none;
+    padding:8px 9px;
+    background-color: rgb(13, 167, 232);
+}
+.search-bar {
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 100%;
+    max-width: 400px;
+    font-size: 16px;
+}
+
+
+
+.form{
+    width: 25%;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    margin: 50px auto;
+    padding: 50px;
+    box-shadow: 1px 1px 8px rgba(0,0,0,0.065);
+}
+.form a{
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+    margin: 6px 6px;
+    text-decoration: none;
+    padding:8px 9px;
+    background-color: rgb(96, 45, 11);
+}
+h2{
+    text-align: center;
+
+}
+.data .inputdata{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.data .inputdata label{
+    margin-bottom:5px;
+    margin-top: 5px;
+
+}
+.data .inputdata input{
+    margin-bottom: 8px;
+    margin-top: 5px;
+    padding: 8px;
+    outline: none;
+}
+.data .inputdata button{
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    color:white;
+    cursor: pointer;
+    background-color: rgb(115, 70, 40);
+    box-shadow: 1px 1px 8px rgba(0,0,0,0.065);
+}
+
+
+.data{
+    margin-top: 20px;
+}
+
